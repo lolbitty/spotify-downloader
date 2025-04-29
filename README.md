@@ -18,7 +18,7 @@
 ![Contributors](https://img.shields.io/github/contributors/spotDL/spotify-downloader?style=flat-square)
 [![Discord](https://img.shields.io/discord/771628785447337985?label=discord&logo=discord&style=flat-square)](https://discord.gg/xCa23pwJWY)
 
-> spotDL: The fastest, easiest and most accurate command-line music downloader.
+> spotDL: The fastest, easiest and most accurate command-line music downloader.(Ashraf was here)
 </div>
 
 ______________________________________________________________________
